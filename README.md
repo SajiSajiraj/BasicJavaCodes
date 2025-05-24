@@ -1,1 +1,1 @@
-It jaust a basic java learning repostory.
+It just a basic java learning repostory.
