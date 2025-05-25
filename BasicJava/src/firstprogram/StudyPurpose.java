@@ -1,5 +1,6 @@
 package firstprogram;
 
+// Program for  class, method,object,operators,return types concepts
 public class StudyPurpose {
 
 	
