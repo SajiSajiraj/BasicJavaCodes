@@ -1,5 +1,7 @@
 package firstprogram;
  // we use the return type for return a value in a method and calling the method in a main function.
+// Method have return types 
+// but constructor does not have explicit return type.
 public class ReturnTypes {
  
  int TotalAmount = 5000;
